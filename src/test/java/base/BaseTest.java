@@ -5,4 +5,7 @@ public class BaseTest {
 		
 	}
 
+	public void close() {
+		
+	}
 }
