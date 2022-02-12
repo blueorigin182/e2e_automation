@@ -4,11 +4,11 @@ public class Util {
 	
 	public void takeScreenshot() {
 		
-		
-		
-		
 	}
 	public void scrollDown() {
+		
+	}
+	public void rightClick() {
 		
 	}
 }
