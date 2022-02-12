@@ -9,6 +9,10 @@ public class Util {
 		
 	}
 	public void rightClick() {
-		
+		System.out.println();
 	}
+	
+	
+	
+	
 }
